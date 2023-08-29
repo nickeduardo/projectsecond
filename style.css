@@ -2,10 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: darkblue;
+    color: rgb(0, 57, 38);
     font-family: 'Times New Roman', Times, serif;
 }
 
 h1, h2, h3, h4, h5, h6{
     text-align: center;
+}
+
+body{
+    background: url("https://picusum.photos/1920/1080")
 }
